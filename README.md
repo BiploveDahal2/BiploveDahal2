@@ -3,7 +3,7 @@
 
 I am a Backend Developer and Graduate Researcher pursuing a Master of Computing & Information Systems at Youngstown State University. With 2+ years of experience, I specialize in building scalable backend systems, secure APIs, and mobile app architecture.
 
-I’ve improved database performance by **30%**, scaled backend services for **1,500+ daily users**, and worked extensively with **Java, PHP, MySQL, Flutter, and blockchain technologies**.
+I’ve improved database performance by **30%**, scaled backend services for **1,500+ daily users**, and worked extensively with **Java, PHP, MySQL,C++ Flutter, and blockchain technologies**.
 
 ---
 
