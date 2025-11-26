@@ -68,6 +68,6 @@ Graduate research analyzing **50+ smart contracts** for vulnerabilities and scal
 
 📧 **biplovee8@gmail.com**  
 🔗 **LinkedIn:** *https://www.linkedin.com/in/biplob-dahal-9b804b342/*  
-🔗 **GitHub:** https://github.com/YOUR_USERNAME  
+🔗 **GitHub:** https://github.com/BiploveDahal2
 
 ---
