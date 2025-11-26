@@ -1,31 +1,73 @@
-<h1 align="center">Hi 👋, I'm Biplob Dahal</h1>
-<h3 align="center">A passionate Full Stack developer from United State</h3>
+# 👋 Hi, I’m **Biplob Dahal**
+### Backend Developer | Mobile Developer | Blockchain Researcher
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biplovedahal2&label=Profile%20views&color=0e75b6&style=flat" alt="biplovedahal2" /> </p>
+I am a Backend Developer and Graduate Researcher pursuing a Master of Computing & Information Systems at Youngstown State University. With 2+ years of experience, I specialize in building scalable backend systems, secure APIs, and mobile app architecture.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biplovedahal2" alt="biplovedahal2" /></a> </p>
+I’ve improved database performance by **30%**, scaled backend services for **1,500+ daily users**, and worked extensively with **Java, PHP, MySQL, Flutter, and blockchain technologies**.
 
-- 🔭 I’m currently working on **Blockchain Projects**
+---
 
-- 🌱 I’m currently learning **Solana Networks**
+## 🛠️ Technical Skills
 
-- 👯 I’m looking to collaborate on **AI projects and blockchain**
+**Programming:** Java, PHP, C, C++, .NET, Dart, Python, SQL  
+**Web:** HTML, CSS, JavaScript, TypeScript, REST APIs, jQuery, AJAX  
+**Databases:** MySQL, PostgreSQL, MongoDB, PL/SQL  
+**Mobile:** Java (Android), Kotlin, Flutter, React Native  
+**Blockchain:** Ethereum, Solana, Bitcoin, Smart Contracts  
+**Cloud & OS:** Linux, Windows  
+**Tools:** Git, GitHub, Figma, Adobe XD, Canva  
 
-- 🤝 I’m looking for help with **Blockchain**
+---
 
-- 💬 Ask me about **php , MYSQL, Flutter**
+## 🚀 Projects
 
-- 📫 How to reach me **biplovee8@gmail.com**
+### 🌐 **Campus Care System** — Full-Stack (PHP, MySQL)  
+Crowdfunding system allowing students to request emergency financial aid.
 
-- ⚡ Fun fact **I think I am funny.**
+- Implemented secure payment gateway  
+- Automated workflows for approvals  
+- Built responsive UI (HTML, CSS, JS)  
+- 99% cross-device compatibility  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🔗 _Documentation Repo Coming Soon_
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplovedahal2&show_icons=true&locale=en&layout=compact" alt="biplovedahal2" /></p>
+### 🔗 **Blockchain Research (Ethereum, BTC, Solana)**  
+Graduate research analyzing **50+ smart contracts** for vulnerabilities and scalability issues.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplovedahal2&show_icons=true&locale=en" alt="biplovedahal2" /></p>
+- Co-authoring academic paper  
+- Smart contract security patterns  
+- Performance analysis across chains  
+
+🔗 _Research repo will include findings + diagrams_
+
+---
+
+## 📊 Experience Highlights
+
+- Backend & Mobile Developer at **Surpass Technologies (Nepal)**  
+  - Built **5+ full-stack apps**, 10k+ monthly views  
+  - Integrated payments processing **$50,000+ annually**  
+  - Improved database speed by **30%**
+
+- Graduate TA & Researcher at **Youngstown State University**  
+  - Mentored **50+ students**  
+  - Boosted class performance by **15%**
+
+- Computer Science Teacher  
+  - Taught C & MySQL to **80+ students**, improving exam scores by **25%**
+
+- Software Tester at **Nepal Oil Corporation**  
+  - Executed 300+ test cases  
+  - Identified 15+ critical bugs improving software reliability by **25%**
+
+---
+
+## 📫 Connect with Me
+
+📧 **biplovee8@gmail.com**  
+🔗 **LinkedIn:** *add your URL here*  
+🔗 **GitHub:** https://github.com/YOUR_USERNAME  
+
+---
