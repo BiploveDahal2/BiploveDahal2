@@ -47,7 +47,7 @@ Graduate research analyzing **50+ smart contracts** for vulnerabilities and scal
 ## 📊 Experience Highlights
 
 - Backend & Mobile Developer at **Surpass Technologies (Nepal)**  
-  - Built **5+ full-stack apps**, 10k+ monthly views  
+  - Built **15+ full-stack apps**, 10k+ monthly views  
   - Integrated payments processing **$50,000+ annually**  
   - Improved database speed by **30%**
 
