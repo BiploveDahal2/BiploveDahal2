@@ -29,7 +29,7 @@ Crowdfunding system allowing students to request emergency financial aid.
 - Built responsive UI (HTML, CSS, JS)  
 - 99% cross-device compatibility  
 
-🔗 _Documentation Repo Coming Soon_
+
 
 ---
 
@@ -40,7 +40,7 @@ Graduate research analyzing **50+ smart contracts** for vulnerabilities and scal
 - Smart contract security patterns  
 - Performance analysis across chains  
 
-🔗 _Research repo will include findings + diagrams_
+
 
 ---
 
