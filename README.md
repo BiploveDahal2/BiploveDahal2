@@ -1,73 +1,42 @@
-# 👋 Hi, I’m **Biplob Dahal**
-### Backend Developer | Mobile Developer | Blockchain Researcher
+# Hi there, I'm Biplob Dahal 👋
 
-I am a Backend Developer and Graduate Researcher pursuing a Master of Computing & Information Systems at Youngstown State University. With 4+ years of experience, I specialize in building scalable backend systems, secure APIs, and mobile app architecture.
+I am a **Full Stack Developer** and **Graduate Researcher** with over 5 years of experience architecting scalable systems and optimizing database performance. Currently, I am pursuing my **Master of Computing and Information Systems** at Youngstown State University, where I maintain a **4.0 GPA**.
 
-I’ve improved database performance by **30%**, scaled backend services for **57,000+ daily users**, and worked extensively with **Java, PHP, MySQL,C++ , Flutter, and blockchain technologies**.
+My work bridges the gap between robust software engineering and cutting-edge research in **Blockchain technology** and **Decentralized Finance (DeFi)**.
 
----
-
-## 🛠️ Technical Skills
-
-**Programming:** Java, PHP, C, C++, .NET, Dart, Python, SQL  
-**Web:** HTML, CSS, JavaScript, TypeScript, REST APIs, jQuery, AJAX  
-**Databases:** MySQL, PostgreSQL, MongoDB, PL/SQL  
-**Mobile:** Java (Android), Kotlin, Flutter, React Native  
-**Blockchain:** Ethereum, Solana, Bitcoin, Smart Contracts  
-**Cloud & OS:** Linux, Windows  
-**Tools:** Git, GitHub, Figma, Adobe XD, Canva  
+### 🚀 Professional Highlights
+* **Graduate Research & Teaching Assistant:** Investigating stablecoin (USDT, USDC) peg-stability protocols and mentoring 50+ undergraduate students in CSIS courses.
+* **Full Stack Development:** Built and launched 15+ enterprise web applications, delivering responsive frontends that ensured 99% cross-device compatibility.
+* **Impactful Projects:** Developed a Campus Care System , currently working to solve financial burden of student by faciliating emergency fund request.
+* **Award-Winning Innovation:** Competed in **HackYSU 2026**, presenting the Campus Care System to a panel of industry judges.
 
 ---
 
-## 🚀 Projects
+### 🛠️ Technical Toolbox
 
-### 🌐 **Campus Care System** — Full-Stack (PHP, MySQL)  
-Crowdfunding system allowing students to request emergency financial aid.
-
-- Implemented secure payment gateway  
-- Automated workflows for approvals  
-- Built responsive UI (HTML, CSS, JS)  
-- 99% cross-device compatibility  
-
-
-
----
-
-### 🔗 **Blockchain Research (Ethereum, BTC, Solana)**  
-Graduate research analyzing **50+ smart contracts** for vulnerabilities and scalability issues.
-
-- Co-authoring academic paper  
-- Smart contract security patterns  
-- Performance analysis across chains  
-
-
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, PHP, C++, Python, Dart, SQL, JavaScript, TypeScript |
+| **Web & Backend** | Laravel, REST APIs, HTML5, CSS3, Bootstrap, jQuery, AJAX |
+| **Mobile** | Flutter, React Native, Android Studio, Kotlin |
+| **Blockchain** | Ethereum, Solana, Bitcoin, Smart Contracts, Stablecoins (USDT, USDC) |
+| **Databases** | MySQL, MongoDB, PL/SQL |
+| **Tools & Platforms** | Git, GitHub, Linux, LaTeX, Figma, Adobe XD |
 
 ---
 
-## 📊 Experience Highlights
-
-- Backend & Mobile Developer at **Surpass Technologies (Nepal)**  
-  - Built **15+ full-stack apps**, 10k+ monthly views  
-  - Integrated payments processing **$50,000+ annually**  
-  - Improved database speed by **30%**
-
-- Graduate TA & Researcher at **Youngstown State University**  
-  - Mentored **50+ students**  
-  - Boosted class performance by **15%**
-
-- Computer Science Teacher  
-  - Taught C & MySQL to **80+ students**, improving exam scores by **25%**
-
-- Software Tester at **Nepal Oil Corporation**  
-  - Executed 300+ test cases  
-  - Identified 15+ critical bugs improving software reliability by **25%**
+### 🔬 Current Research Focus
+My thesis research, **“Behavior Analysis of Decentralized Digital Assets,”** focuses on:
+* Collateralization and rebalancing mechanisms for Stablecoins to maintain a 1:1 USD peg.
+* Optimization of smart contract performance for blockchain scalability.
+* Data-driven analysis of mint/burn interactions across Ethereum and Solana ecosystems.
 
 ---
 
-## 📫 Connect with Me
-
-📧 **biplovee8@gmail.com**  
-🔗 **LinkedIn:** *https://www.linkedin.com/in/biplob-dahal-9b804b342/*  
-🔗 **GitHub:** https://github.com/BiploveDahal2
+### 📬 Connect with Me
+* **LinkedIn:** [linkedin.com/in/biplob-dahal-9b804b342/](https://www.linkedin.com/in/biplob-dahal-9b804b342/)
+* **Email:** bdahal0088@gmail.com
+* **GitHub:** [github.com/BiploveDahal2](https://github.com/BiploveDahal2)
 
 ---
+*“Building scalable solutions for real-world impact.”*
